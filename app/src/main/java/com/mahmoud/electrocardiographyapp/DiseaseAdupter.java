@@ -17,7 +17,7 @@ import java.util.List;
 
 public class DiseaseAdupter extends RecyclerView.Adapter<DiseaseAdupter.DiseaseViewHolder> {
 
-    private List<Disease> itemsList = new ArrayList<>();
+      private List<Disease> itemsList = new ArrayList<>();
 
     private Context context;
 

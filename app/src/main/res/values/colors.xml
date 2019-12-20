@@ -11,4 +11,6 @@
     <color name="lightred">#F10909</color>
     <color name="skyblue">#57DDDE</color>
     <color name="move">#1F1927</color>
+    <color name="moveDark">#191322</color>
+    <color name="rose">#ff1744</color>
 </resources>

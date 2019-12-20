@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@color/move"
     tools:context=".MainActivity">
 
 
@@ -28,7 +28,7 @@
 
         android:fontFamily="monospace"
         android:gravity="center"
-        android:text="Electrocardiography\nApplication"
+        android:text="@string/app_name"
         android:textColor="#ff1744"
         android:textSize="20sp"
         android:textStyle="bold" />

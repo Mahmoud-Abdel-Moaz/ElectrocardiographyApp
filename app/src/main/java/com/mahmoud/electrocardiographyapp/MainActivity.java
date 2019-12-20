@@ -22,13 +22,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this,DiseasesActivity.class));
-            }
-        });
+    }
+});
 
         but_scanner.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                startActivity(new Intent(MainActivity.this,ScanneActivity.class));
             }
         });
     }

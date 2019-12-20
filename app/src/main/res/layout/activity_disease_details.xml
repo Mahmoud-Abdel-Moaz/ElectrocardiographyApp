@@ -19,7 +19,7 @@
 
         android:textStyle="bold"
         android:textSize="20sp"
-        android:textColor="@color/skyblue"
+        android:textColor="@color/rose"
         />
 
     <ScrollView
@@ -35,7 +35,7 @@
             android:scrollbars="vertical"
             android:fontFamily="sans-serif"
             android:textSize="16sp"
-            android:textColor="#ffffff"
+            android:textColor="@color/skyblue"
             />
     </ScrollView>
 
